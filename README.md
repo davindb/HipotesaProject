@@ -60,6 +60,7 @@
     <li><a href="#apps-overview">Apps Overview</a></li>
     <li><a href="#our-features">Our Features</a></li>
     <li><a href="#team-members">Team Members</a></li>
+    <li><a href="#references">References</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#acknowledgements">Acknowledgements</a></li>
@@ -155,6 +156,13 @@ _For more information, please refer to the [App Documentation]()_
 | Agus Cahya Ananda Yoga Putra  |  C0121258  |          Cloud Computing Engineer          |   [![agus-linkedin][linkedin-shield]][agus-linkedin-url][![agus-github][github-shield]][agus-github-url]   |
 |       Fadia Fatta Dylla       |  C0121262  |       Cloud Cloud Computing Engineer       | [![fadia-linkedin][linkedin-shield]][fadia-linkedin-url][![fadia-github][github-shield]][fadia-github-url] |
 |  Ravedya Aufa Amaranggana W.  |  A0111155  |              Mobile Developer              | [![raved-linkedin][linkedin-shield]][raved-linkedin-url][![raved-github][github-shield]][raved-github-url] |
+
+
+<!-- REFERENCES -->
+
+## References
+
+We also provide you our journal references. For more information please refer to [this](https://github.com/davindb/HipotesaProject/tree/main/References).
 
 <!-- CONTRIBUTING -->
 
