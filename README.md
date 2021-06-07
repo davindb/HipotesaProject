@@ -78,7 +78,7 @@ In this project we create an **Android Native Mobile Application** with the reso
 
 - [Android Studio](https://developer.android.com/studio)
 - [Tensorflow](https://www.tensorflow.org/)
-- [Google App Engine](https://cloud.google.com/appengine)
+- [Google Cloud Platform](https://cloud.google.com/)
 - [Flask](https://flask.palletsprojects.com/en/2.0.x/)
 - [Gunicorn](https://gunicorn.org/)
 
@@ -101,7 +101,7 @@ This is an overview of Hipotesa, what the prequisites are, how to download and u
 
 We provide public APIs for many developers to contribute or build some similar application. Follow the instructions in the **Hipotesa Public APIs Documentation** below.
 
-- [Public APIs Documentation]()
+- [Public APIs Documentation](https://github.com/davindb/HipotesaDeveloper/#readme)
 
 ### Project Repositories
 
