@@ -149,7 +149,7 @@ We are very grateful to all of those with whom we have had the pleasure to work 
 
 <p align="center" style="padding-top: 5px">
   <a href="https://grow.google/intl/id_id/bangkit/">
-    <img src="images/bangkit.png" alt="Logo" width="50%" height="100%">
+    <img src="images/Bangkit.png" alt="Logo" width="50%" height="100%">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="#">
