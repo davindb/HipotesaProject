@@ -100,7 +100,7 @@ This is an overview of Hipotesa, what the prequisites are, how to download and u
 
 We provide public APIs for many developers to contribute or build some similar application. Follow the instructions in the **Hipotesa Public APIs Documentation** below.
 
-- [Public APIs Documentation]()
+- [Public APIs Documentation](https://github.com/davindb/HipotesaDeveloper/#readme)
 
 ### Project Repositories
 
