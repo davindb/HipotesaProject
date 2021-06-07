@@ -105,7 +105,7 @@ We provide public APIs for many developers to contribute or build some similar a
 
 - [Hipotesa Application]()
 - [Hipotesa Rest API & Cloud Management](https://github.com/Guscah/HipotesaRestAPI)
-- [Hipotesa Algorithm]()
+- [Hipotesa Algorithm](https://github.com/davindb/HipotesaAlgorithm)
 
 <!-- OUR FEATURES -->
 
