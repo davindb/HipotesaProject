@@ -123,7 +123,7 @@ _For more information, please refer to the [App Documentation]()_
 
 |            Member             | Student ID |       Project Role        |                                                  Contacts                                                  |
 | :---------------------------: | :--------: | :-----------------------: | :--------------------------------------------------------------------------------------------------------: |
-| Davin Darmalaksana Bhagaspati |  M0111153  | Machine Learning Engineer | [![davin-linkedin][linkedin-shield]][davin-linkedin-url][![davin-github][github-shield]][davin-github-url] |
+| Davin Darmalaksana Bhagaspati |  M0111153  | Project Leader & Machine Learning Engineer | [![davin-linkedin][linkedin-shield]][davin-linkedin-url][![davin-github][github-shield]][davin-github-url] |
 |    Ihsan Nafilah Ramdhani     |  M0111152  | Machine Learning Engineer | [![ihsan-linkedin][linkedin-shield]][ihsan-linkedin-url][![ihsan-github][github-shield]][ihsan-github-url] |
 | Agus Cahya Ananda Yoga Putra  |  C0121258  |  Cloud Platform Engineer  |   [![agus-linkedin][linkedin-shield]][agus-linkedin-url][![agus-github][github-shield]][agus-github-url]   |
 |       Fadia Fatta Dylla       |  C0121262  |  Cloud Platform Engineer  | [![fadia-linkedin][linkedin-shield]][fadia-linkedin-url][![fadia-github][github-shield]][fadia-github-url] |
