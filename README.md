@@ -77,7 +77,7 @@ In this project we create an **Android Native Mobile Application** with the reso
 
 - [Android Studio](https://developer.android.com/studio)
 - [Tensorflow](https://www.tensorflow.org/)
-- [Google App Engine](https://cloud.google.com/appengine)
+- [Google Cloud Platform](https://cloud.google.com/)
 - [Flask](https://flask.palletsprojects.com/en/2.0.x/)
 - [Gunicorn](https://gunicorn.org/)
 
