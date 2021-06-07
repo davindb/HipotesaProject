@@ -15,7 +15,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/davindb/HipotesaProject">
+  <a href="http://www.hipotesa.tech/">
     <img src="images/hipotesa.png" alt="Logo" width="200" height="200">
   </a>
 
@@ -29,9 +29,12 @@
     <br />
     <a href="https://github.com/davindb/HipotesaProject/">View Demo</a>
     ·
-    <a href="https://github.com/davindb/HipotesaProject/issues">Report Bug</a>
+    <a href="http://www.hipotesa.tech/">Our Website</a>
     ·
     <a href="https://github.com/davindb/HipotesaProject/#contributing">Contribute</a>
+    ·
+    <a href="https://github.com/davindb/HipotesaProject/issues">Report Bug</a>
+    
   </p>
 </p>
 
@@ -114,19 +117,19 @@ We provide public APIs for many developers to contribute or build some similar a
 ## Apps Overview
 
 <p align="center" style="padding-top: 5px">
-  <a href="#">
+  <a href="#images/open.jpeg">
     <img src="images/open.jpeg" alt="Logo" width="20%" height="100%">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="#">
+  <a href="#images/menu.jpeg">
     <img src="images/menu.jpeg" alt="Logo" width="20%" height="100%" >
   </a>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="#">
+  <a href="#images/inputs.jpeg">
     <img src="images/inputs.jpeg" alt="Logo" width="20%" height="100%" >
   </a>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   <a href="#">
+   <a href="#images/outputs.jpeg">
     <img src="images/outputs.jpeg" alt="Logo" width="20%" height="100%" >
   </a>
 </p>
