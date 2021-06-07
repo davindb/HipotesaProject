@@ -31,7 +31,7 @@
     ·
     <a href="https://github.com/davindb/HipotesaProject/issues">Report Bug</a>
     ·
-    <a href="https://github.com/davindb/HipotesaProject/issues">Contribute</a>
+    <a href="https://github.com/davindb/HipotesaProject/#contributing">Contribute</a>
   </p>
 </p>
 
