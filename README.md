@@ -194,7 +194,7 @@ We are very grateful to all of those with whom we have had the pleasure to work 
     <img src="images/Bangkit.PNG" alt="Logo" width="50%" height="100%">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="#">
+  <a href="http://www.hipotesa.tech/">
     <img src="images/hipotesa.png" alt="Logo" width="22%" height="22%" >
   </a>
 </p>
