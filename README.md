@@ -109,9 +109,11 @@ We provide open APIs for many developers to contribute or build some similar app
 
 ### Project Repositories
 
+Check our project repositories to know more about Hipotesa.
+
 - [Hipotesa Application]()
-- [Hipotesa Rest API & Cloud Management](https://github.com/Guscah/HipotesaRestAPI)
 - [Hipotesa Algorithm](https://github.com/davindb/HipotesaAlgorithm)
+- [Hipotesa Rest API & Cloud Management](https://github.com/Guscah/HipotesaRestAPI)
 
 <!-- APPS OVERVIEW -->
 
@@ -149,14 +151,13 @@ _For more information, please refer to the [App Documentation]()_
 
 ## Team Members
 
-|            Member             | Student ID |                Project Role                |                                                  Contacts                                                  |
-| :---------------------------: | :--------: | :----------------------------------------: | :--------------------------------------------------------------------------------------------------------: |
+|            Member             | Student ID |                Project Role                |                                                  Contacts                                                   |
+| :---------------------------: | :--------: | :----------------------------------------: | :---------------------------------------------------------------------------------------------------------: |
 | Davin Darmalaksana Bhagaspati |  M0111153  | Project Leader & Machine Learning Engineer | [![davin-linkedin][linkedin-shield]][davin-linkedin-url] [![davin-github][github-shield]][davin-github-url] |
 |    Ihsan Nafilah Ramdhani     |  M0111152  |         Machine Learning Engineer          | [![ihsan-linkedin][linkedin-shield]][ihsan-linkedin-url] [![ihsan-github][github-shield]][ihsan-github-url] |
-| Agus Cahya Ananda Yoga Putra  |  C0121258  |          Cloud Computing Engineer          |   [![agus-linkedin][linkedin-shield]][agus-linkedin-url] [![agus-github][github-shield]][agus-github-url]   | 
+| Agus Cahya Ananda Yoga Putra  |  C0121258  |          Cloud Computing Engineer          |   [![agus-linkedin][linkedin-shield]][agus-linkedin-url] [![agus-github][github-shield]][agus-github-url]   |
 |       Fadia Fatta Dylla       |  C0121262  |          Cloud Computing Engineer          | [![fadia-linkedin][linkedin-shield]][fadia-linkedin-url] [![fadia-github][github-shield]][fadia-github-url] |
 |  Ravedya Aufa Amaranggana W.  |  A0111155  |              Mobile Developer              | [![raved-linkedin][linkedin-shield]][raved-linkedin-url] [![raved-github][github-shield]][raved-github-url] |
-
 
 <!-- REFERENCES -->
 
