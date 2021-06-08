@@ -53,7 +53,7 @@
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
-        <li><a href="#public-apis">Public APIs</a></li>
+        <li><a href="#open-apis">Open APIs</a></li>
          <li><a href="#project-repositories">Project Repositories</a></li>
       </ul>
     </li>
@@ -100,11 +100,11 @@ This is an overview of Hipotesa, what the prequisites are, how to download and u
 
 - [Android APK Installer]()
 
-### Public APIs
+### Open APIs
 
-We provide public APIs for many developers to contribute or build some similar application. Follow the instructions in the **Hipotesa Public APIs Documentation** below.
+We provide open APIs for many developers to contribute or build some similar application. Follow the instructions in the **Hipotesa Open APIs Documentation** below.
 
-- [Public APIs Documentation](https://github.com/davindb/HipotesaDeveloper/#readme)
+- [Open APIs Documentation](https://github.com/davindb/HipotesaDeveloper/#readme)
 
 ### Project Repositories
 
